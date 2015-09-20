@@ -82,8 +82,3 @@ class Game
 
 
 end
-
-
-game = Game.new("X", "O")
-game.draw
-game.promptUser
